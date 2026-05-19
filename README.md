@@ -1,4 +1,4 @@
-# Company Brain
+# Open Company OS
 
 The open-source operating system for AI-native companies. Run your entire company with AI agents, skills, and a self-improving content flywheel.
 
@@ -8,7 +8,7 @@ The open-source operating system for AI-native companies. Run your entire compan
 
 ## What is this?
 
-Company Brain is a single Git repo that contains everything an AI agent needs to operate your company: context about your business, skills for every task, agent routines that run on schedules, and a content flywheel that improves itself over time.
+Open Company OS is a single Git repo that contains everything an AI agent needs to operate your company: context about your business, skills for every task, agent routines that run on schedules, and a content flywheel that improves itself over time.
 
 It works with [Claude Code](https://claude.ai/code), [Cursor](https://cursor.sh), [Codex](https://openai.com/codex), or any AI coding agent that can read markdown files.
 
@@ -24,7 +24,7 @@ Instead of starting every AI conversation from scratch, you give the agent a per
 
 ### The self-improving content flywheel
 
-This is the key insight that makes Company Brain different from a static prompt library:
+This is the key insight that makes Open Company OS different from a static prompt library:
 
 ```
 Create content
@@ -61,8 +61,8 @@ When Claude drafts something and you edit it, the skill captures what changed an
 ### 1. Fork this repo
 
 ```bash
-gh repo fork getnao/company-brain --clone
-cd company-brain
+gh repo fork getnao/open-company-os --clone
+cd open-company-os
 ```
 
 ### 2. Fill in your company context

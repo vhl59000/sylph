@@ -1,4 +1,4 @@
-# Agent Workflow - Company Brain
+# Agent Workflow - Open Company OS
 
 This file tells the AI agent (Cursor / Codex / any agent that auto-loads `AGENTS.md`) how to work within this repo. Read it before starting any task.
 

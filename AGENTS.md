@@ -11,9 +11,7 @@ Read it before starting any task. Company and product context lives in `CONTEXT.
 
 ## 0. Definitions
 
-The **CAO (Chief Agent Officer)** is the human operator who owns this repo. The CAO reviews, approves, and has final say on everything agents produce.
-
-<!-- After running /sylph-setup, replace this with the CAO's name and pronouns -->
+The **CAO (Chief Agent Officer)** is **Valentin Henry-Leo** (he/him), founder of Newsquick. He owns this repo, reviews, approves, and has final say on everything agents produce.
 
 ---
 

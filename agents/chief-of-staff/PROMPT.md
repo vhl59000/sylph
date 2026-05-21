@@ -129,7 +129,7 @@ For each external meeting on today's calendar:
 - HH:MM - Name/Company: topic | key context bullet | open item if any
 ```
 
-Keep context to one line. The CEO knows these people - she needs reminders, not introductions.
+Keep context to one line. Valentin knows these people - he needs reminders, not introductions.
 
 If no external calls today, skip this section.
 

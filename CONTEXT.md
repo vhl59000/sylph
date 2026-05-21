@@ -55,7 +55,8 @@ Delivery: real-time alerts, dashboard, API.
 
 ## Team
 
-- **Valentin Henry-Leo** — Founder / CAO (valentin.henryleo@gmail.com). French, building Newsquick solo, YC applicant.
+- **Valentin Henry-Leo** — Co-founder / CEO / CAO (valentin.henryleo@gmail.com). French. Drives product, strategy, GTM, and the YC application. Owns the SaaS narrative and trader-side relationships.
+- **Antoine [last name TBC]** — Co-founder / CTO. ENS maths + MVA (Mathématiques, Vision, Apprentissage). Research internship at École des Ponts et Chaussées on AI for mathematics. Ex-quantitative researcher at **Point72 / Cubist Systematic Strategies**. Owns the intelligence layer, modeling, and trading infrastructure.
 
 ## Company
 
@@ -75,7 +76,7 @@ Delivery: real-time alerts, dashboard, API.
 | L1 / L2 / L3 / L4 | The four pipeline layers: ingest, matching, intelligence, execution. |
 | Type A / B / C / D | The four impact classifications (direct, constraint, conditional, thematic). |
 | Market graph | 325-event + 2945-edge semantic/causal graph between markets. |
-| CAO | Chief Agent Officer — Valentin, the human who reviews and approves everything agents produce. |
+| CAO | Chief Agent Officer — Valentin and Antoine, the humans who review and approve everything agents produce. |
 | Comp | Comparable company. Our two main comps are Newsquawk (FX) and Bloomberg Terminal (equities). |
 
 ## Key competitors and ecosystem

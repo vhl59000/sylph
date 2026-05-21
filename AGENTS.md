@@ -11,7 +11,11 @@ Read it before starting any task. Company and product context lives in `CONTEXT.
 
 ## 0. Definitions
 
-The **CAO (Chief Agent Officer)** is **Valentin Henry-Leo** (he/him), founder of Newsquick. He owns this repo, reviews, approves, and has final say on everything agents produce.
+The **CAO (Chief Agent Officer)** role is shared between Newsquick's two co-founders:
+- **Valentin Henry-Leo** (he/him) — CEO. GTM, product, strategy.
+- **Antoine [last name TBC]** — CTO. Intelligence layer, modeling, quant research (ex-Point72 / Cubist Systematic Strategies).
+
+Either CAO can review, approve, and have final say on agent output. When uncertain which CAO owns a domain, default routing: product/strategy/GTM → Valentin; modeling/research/infra → Antoine.
 
 ---
 

@@ -13,6 +13,6 @@ Claude updates this file when it learns something non-obvious:
 Format: - [Short title](memory/filename.md) - one-line description
 -->
 
-- [CAO profile](memory/cao.md) — Valentin, founder of Newsquick, French, he/him, YC applicant
+- [Founding team](memory/cao.md) — Valentin (CEO, GTM) + Antoine (CTO, ex-Point72 Cubist quant)
 - [Voice rules](memory/voice-rules.md) — direct, operator-to-operator, banned words list
 - [Product framing](memory/product-framing.md) — lead with "news intelligence", never "AI trading bot"

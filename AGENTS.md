@@ -173,6 +173,7 @@ Skills follow the [Agent Skills](https://agentskills.io) open standard. Each has
 | create-contract | legal | `.claude/skills/create-contract/SKILL.md` |
 | review-contract | legal | `.claude/skills/review-contract/SKILL.md` |
 | zero-inbox | ops | `.claude/skills/zero-inbox/SKILL.md` |
+| process-inbox | ops | `.claude/skills/process-inbox/SKILL.md` |
 | create-issue | product | `.claude/skills/create-issue/SKILL.md` |
 | create-campaign | sales | `.claude/skills/create-campaign/SKILL.md` |
 | crm | sales | `.claude/skills/crm/SKILL.md` |
